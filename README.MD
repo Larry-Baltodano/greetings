@@ -11,7 +11,7 @@ go get -u github.com/Larry-Baltodano/greetings
 ## Uso
 Aqui tienes un ejemplo de cómo utilizar el paquete en tu código:
 ```bash
-packege main
+package main
 
 import (
     "fmt"
